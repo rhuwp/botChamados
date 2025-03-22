@@ -1,0 +1,17 @@
+# Ignorar tokens e sessões
+tokens/
+
+# Ignorar logs
+*.log
+*.log.old
+
+# Ignorar arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Ignorar dependências instaladas 
+node_modules/
+
+# Ignorar arquivos de build 
+dist/
+build/
